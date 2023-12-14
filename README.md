@@ -2,7 +2,7 @@
 
 1. **install PIL**
    ```bash
-   python fragilewatermark.py <nama_gambar_yang_sudah_diwatermark> <nama_file_bebas_untuk_output_ekstraksi>
+   pip install pillow
    ```
 
 ## Fragile-Watermarking
